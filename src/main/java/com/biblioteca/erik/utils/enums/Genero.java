@@ -6,6 +6,6 @@ public enum Genero {
     NO_FICCION,
     CIENCIA,
     HISTORIA,
-    BIOGRAFIA
+    OTROS
 
 }
