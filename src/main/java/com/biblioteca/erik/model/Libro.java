@@ -3,7 +3,6 @@ package com.biblioteca.erik.model;
 import com.biblioteca.erik.utils.enums.Genero;
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
 
 @Entity
 @Data
